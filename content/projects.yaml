@@ -1,0 +1,26 @@
+- name: Cron Job Scheduling using Quartz
+  url: https://github.com/cd-x/quartzDemo
+  description: Quartz application with spring boot and thymeleaf and postgresql as persistent datasource.
+  status: Done
+  tags:
+    - SpringBoot
+    - Java
+    - Helm
+    - Quartz
+    - okteto cloud
+    - Kubernetes
+  icon: github
+  image: images/project1.jpg
+
+- name: Plant Disease Detection
+  url: https://github.com/cd-x/plant-disease
+  description: This tool contains Tensorflow trained model that solves the early stage plant disease detection.
+  status: live
+  tags:
+    - Flask
+    - Python
+    - Heroku
+    - Tensorflow
+    - Deep Learning
+  icon: github
+  image: images/project2.jpg

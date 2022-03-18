@@ -1,0 +1,36 @@
+- profile:
+  initials: RV
+  name: Rajrishi Vishwakarma
+  profession: Software Developer
+  image: images/profile.jpg
+  location: Pune, India
+  relocation: false
+  company: Amdocs
+  for_hire: false
+  focus: Learning AWS Cloud
+  focus_url: https://acloudguru.com
+  about: |
+    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+
+    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+  skills:
+    - DSA
+    - AWS lambda
+    - SpringBoot
+    - Java
+    - Kubernetes
+    - Quartz
+    - Agile
+    - Spring MVC
+    - JavaScript
+  tools:
+    - React
+    - VSCode
+    - Git
+    - CICD
+    - okteto
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
